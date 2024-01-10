@@ -1,5 +1,5 @@
 # RESTAURANT SALES ANALYSIS
-This is an Analysis for solving business problems of the restaurant data using MS Power BI Desktop.
+This is an Analysis for solving business problems of the restaurants using MS Power BI Desktop.
 
 *(The below image is uploaded from google for reference only)*
 
